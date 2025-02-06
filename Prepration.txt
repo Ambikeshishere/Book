@@ -113,4 +113,30 @@ Aur uske project ko manjoori mil gyi.
 Manoj ne pahle hi bol diya tha ki wo AI ke liye Office server ka nhi alag se server ka use karega aur wo sab ek nye office me 
 install hoga. 
 
-Saare Intezaam ho jaane ke baad 
+Saare Intezaam ho jaane ke baad Manoj pahli baar nye office me gya, Office kaafi sundar tha, waha wo saari suwidha thi jo 
+ek AI Engineer ko chahiye hoti hai. Behter servers, cooling systems aur wo sab kuch jo use chahiye tha. Pahle ek mahine to Manoj ne 
+bas project samjhaane me laga diya aur fir team ne Data Collection ka kaam shuru kiya.
+
+Aur dheere dheere wo apne kaam me kuch is tarah ram gya ki wo bhul gya ki uska koi pariwaar bhi hai bas Office se ghar aur ghar 
+se office. Ab to Ghar bhi hafte me ek din hi jata tha. Manoj itna kaam kar rha tha ki agar wo Infosys me hota to Murthy sir ka 
+sabse laadla hota. 
+
+Fir Mrs.Awasthi ke advice pe wo puri tarah se office me hi settle ho gya.
+
+aur fir barishe aayi fir thand aur fir garmi lekin Manoj ne kabhi us office se bahar kadam nhi rakha tha wo kahi nahi jata tha
+na kisi se milta tha, bas har shaam ko kuch der mummy se baat kar leta tha aur phir apne project pe wapis laut jata. Ab uski umra badh
+rhi thi Mummy bhi use har roj Shaadi ke liye kaha karti thi lekin wo bas bahane bana diya karta tha ki abhi project khatam ho jaaye
+tab karega lekin sayad wo nhi karna chahta tha Python aur SQL me wo kuch is tarah ghus gaya tha ki use prem ki bhasa bolni hi nhi 
+aati thi ab wo bas dheere dheere aur jyadaa apne kaam me vyast hote jaa rha tha.
+
+
+Pure 3 saal baad Manoj ne Pahla Version launch kiya aur usne Company ki valuation 100 times badhayi aur ab Mr.Ayush Raj ne use
+Company ke 10% equity bhi dedi thi aur Manoj bahut khus tha magar ab wo kaafi din baad fir se bahut khaali tha kyuki Ab kuch naya
+banana nhi tha aur AI ko manage team kar rhi thi.
+
+Kuch din baad Manoj Mrs Awasthi se ghar jaane ko bolke Prayagraj laut gya. Manoj to ghar aa gya tha par ab uska yaha man nhi lag rha tha
+kyuki ab wo dheere dheere insaano se door ho chuka tha usne papa se bhi kaha ki wo kabhi ab dukaan pe nhi baithega. Mr. Jaiswal bhi ab 
+jyada bolna uchit nhi samjha aur bas kaha "Jo samajh aaye wo karo." Mummy ne bhi ab shaadi ke liye bolna band kar diya tha aur kuch din 
+baad Manoj wapis Banglore laut gaya....
+
+aur phir se apne kaam me busy ho gya.
